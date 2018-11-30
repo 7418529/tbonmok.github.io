@@ -1,0 +1,28 @@
+
+.btna {
+  background-color: transparent !important;
+  border-color: white !important;
+  color: white !important;
+  font-size: 1.25rem !important;
+  margin-bottom: 10px !important;
+}
+
+.btna:hover, .btna:active, .btna:focus {
+  background-color: #000000 !important;
+  color: white !important;
+  box-shadow: none;
+  border-color: white !important;
+  text-shadow: none !important;
+}
+
+
+.btnaa {
+  background-color: transparent !important;
+  border-color: white !important;
+  color: white !important;
+}
+
+.btnaa:hover, .btnaa:active, .btnaa:focus {
+  background-color: #000000 !important;
+  border-color: white !important;
+}
