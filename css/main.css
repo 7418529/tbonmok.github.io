@@ -1,0 +1,38 @@
+.cat-area #hexagon:hover {
+  background: #EC008C;
+}
+
+.cat-area #hexagon:hover:after {
+  border-top: 25px solid #EC008C;
+}
+
+.cat-area #hexagon:hover:before {
+  border-bottom: 25px solid #EC008C;
+}
+
+.cat-area .single-cat {
+  text-align: center;
+}
+
+.cat-area .single-cat p {
+  max-width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cat-area .hb-sm {
+  line-height: 40px;
+  font-size: 28px;
+}
+
+.cat-area .hb-facebook-inv, .cat-area .hb-facebook-inv::after, .cat-area .hb-facebook-inv::before, .cat-area .hb-facebook:hover, .cat-area .hb-facebook:hover::after, .cat-area .hb-facebook:hover::before {
+  border-color: #d7d7d7;
+  color: #d7d7d7;
+  background: 0 0;
+}
+
+.cat-area .hb-facebook-inv:hover, .cat-area .hb-facebook-inv:hover::after, .cat-area .hb-facebook-inv:hover::before {
+  background-color: #171717;
+  border-color: #d7d7d7;
+  color: #f39c12;
+}

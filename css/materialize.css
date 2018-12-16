@@ -1157,7 +1157,7 @@
 }
 
 .green.darken-2 {
-  background-color: #000000 !important;
+  background-color: #3c9401 !important;
 }
 
 .green.darken-a {
@@ -2117,7 +2117,7 @@
 }
 
 .grey-text.text-darken-3 {
-  color: #7a2406 !important;
+  color: #e2e2e2 !important;
 }
 
 .grey.darken-4 {
@@ -2142,6 +2142,10 @@
 
 .white-text {
   color: #ffffff !important;
+}
+
+.whitee-text {
+  color: #171717 !important;
 }
 
 .transparent {
@@ -9017,13 +9021,13 @@ input[type=range]:focus:not(.active)::-ms-thumb {
 }
 
 .header-btn:hover {
-  border: 0px solid #f39c12;
+  border: 0px solid #171717;
   background: transparent;
-  color: #f39c12;
+  color: #171717;
 }
 
 .a:hover {
   border: 0px solid #f39c12;
   background: transparent;
-  color: #000000;
+  color: #171717;
 }
